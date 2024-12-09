@@ -22,6 +22,12 @@ h1 {
   color: #4ECCA3;
 }
 
+h2{
+  color: #b1b9b6;
+  font-family: 'Lobster', cursive;
+  font-size: 2rem;
+}
+
 p {
   font-size: 2rem;
   color: #4ECCA3;
